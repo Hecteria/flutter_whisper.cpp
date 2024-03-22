@@ -28,6 +28,11 @@ To use the app, simply record speech by tapping the record button, and the app w
 
 ## Installation
 
+Yüklü olması gereken şeyler
+
+ - Flutter
+ - Rust
+
 The app has only been set up with iOS to start with and has been tested on an iPhone 12 and an iPad Air with a 2022 M1 chip. To install the app, follow these steps:
 
 *Note: due to using the ffmpeg library it's not currently working on the simulator, I will fix this but for the time being its recommended to use a real iOS device*
