@@ -36,13 +36,13 @@ Kurulu olması gerekenler
   
   -LLVM
 
-  '''
+  ```
   
 rustup target add armv7-linux-androideabi
  rustup target add aarch64-linux-android
  rustup target add i686-linux-android
  rustup target add x86_64-linux-android
-'''
+```
 
 The app has only been set up with iOS to start with and has been tested on an iPhone 12 and an iPad Air with a 2022 M1 chip. To install the app, follow these steps:
 
